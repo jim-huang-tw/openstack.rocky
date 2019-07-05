@@ -68,5 +68,7 @@ echo "time openstack-ansible /opt/openstack-ansible/playbooks/setup-openstack.ym
 ### 126
 
 sh o1.sh
+
 sh o2.sh
+
 sh o3.sh

@@ -3,7 +3,7 @@
 Use openstack-ansible to install openstack All-in-One with HEAT enable.
 
 ### 10
-# SSH 
+#### SSH 
 ssh-copy-id -i ./id_rsa.pub root@10.211.55.22
 
 ### 20

@@ -59,7 +59,9 @@ heat_heat_conf_overrides:
 
 cd /opt/openstack-ansible/playbooks/
 echo "time openstack-ansible /opt/openstack-ansible/playbooks/setup-hosts.yml" > o1.sh
+
 echo "time openstack-ansible /opt/openstack-ansible/playbooks/setup-infrastructure.yml" > o2.sh
+
 echo "time openstack-ansible /opt/openstack-ansible/playbooks/setup-openstack.yml" > o3.sh
 
 
